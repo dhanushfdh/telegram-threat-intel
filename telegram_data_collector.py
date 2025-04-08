@@ -5,8 +5,8 @@ from datetime import datetime
 
 # ================== CONFIGURATION ==================
 SESSION_ID = "telegram_threatintel_session"
-API_ID = 15481391
-API_HASH = "2fa6d5f36213c308154532ef65d80bb3"
+API_ID = ""
+API_HASH = ""
 
 # Load hashtags from external file
 with open("hashtags.txt", "r") as f:
