@@ -1,0 +1,764 @@
+[
+    {
+        "hashtag": "APT29",
+        "message_id": 607277,
+        "channel_id": 1117911340,
+        "channel_name": "NetSec Info",
+        "channel_username": "netsecnews",
+        "post_author": null,
+        "date": "2025-03-06T15:27:02+00:00",
+        "message": "VMware admins, your worst nightmare just came true — #APT29, #APT41, and #APT28 might be feasting on fresh vulnerabilities (CVE-2025–22224…Continue reading on Medium » (https://medium.com/@wes_75226/%EF%B8%8F-cyber-goblins-might-be-feasting-on-your-vmware-vulnerabilities-%EF%B8%8F-904ff10bcb09?source=rss------cybersecurity-5)",
+        "media_present": false,
+        "media_type": null,
+        "views": 3,
+        "forwards": 0,
+        "replies": 0,
+        "hashtags": [
+            "#APT29",
+            "#APT41",
+            "#APT28"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 53,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 61,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 73,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityUrl",
+                "offset": 169,
+                "length": 157
+            }
+        ],
+        "pinned": false,
+        "edit_date": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1117911340/607277",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 41749,
+        "channel_id": 1815926656,
+        "channel_name": "Daily Writeups",
+        "channel_username": "Daily_Writeups",
+        "post_author": null,
+        "date": "2025-02-17T03:04:09+00:00",
+        "message": "⤷ Title: Russian Hackers Exploit Microsoft Device Code Authentication in Targeted Attacks Against M365 Accounts\n════════════════════════\n𐀪 Author: do son\n════════════════════════\nⴵ Time: Mon, 17 Feb 2025 02:19:14 +0000\n════════════════════════\n⌗ Tags: #Cyber Security #APT29 #CozyDuke #CozyLarch #DarkHalo #Device Code Authentication #Device Code Authentication phishing #Midnight Blizzard #phishing #UTA0304 #UTA0307",
+        "media_present": true,
+        "media_type": "MessageMediaWebPage",
+        "views": 20,
+        "forwards": 1,
+        "replies": 0,
+        "hashtags": [
+            "Cyber ",
+            "APT29 ",
+            "CozyDuke ",
+            "CozyLarch ",
+            "DarkHalo ",
+            "Device ",
+            "Device ",
+            "Midnight ",
+            "phishing ",
+            "UTA0304 ",
+            "UTA0307"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityBold",
+                "offset": 2,
+                "length": 7
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 9,
+                "length": 102
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 9,
+                "length": 102
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 140,
+                "length": 8
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 182,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 247,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 253,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 269,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 276,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 286,
+                "length": 10
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 297,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 307,
+                "length": 7
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 335,
+                "length": 7
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 372,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 391,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 401,
+                "length": 8
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 410,
+                "length": 8
+            }
+        ],
+        "pinned": false,
+        "edit_date": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1815926656/41749",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 2182,
+        "channel_id": 1614759234,
+        "channel_name": "Белый хакер",
+        "channel_username": "bezopasno_soft",
+        "post_author": null,
+        "date": "2024-12-23T14:55:34+00:00",
+        "message": "❔ Как APT29 ворует данные через RDP-прокси: разбор атак\n\nВсем привет! Недавно исследователи Trend Micro раскопали интересную схему работы русскоязычной хак-группы APT29, известной как Midnight Blizzard. Оказывается, они организовали сеть из 193 RDP-прокси, чтобы проворачивать атаки типа «человек посередине» (MiTM). Идея проста: они перехватывают RDP-сессии, крадут учетные данные, конфиденциальные данные и даже запускают малварь в скомпрометированных системах.\n\n⚙️ Основной инструмент — PyRDP. Это утилита, предназначенная для red team-пентестов, но, как видим, хакеры тоже нашли ей применение. PyRDP позволяет воровать данные из файловых систем жертв, выуживать хеши NTLM и даже запускать команды через PowerShell, оставаясь незамеченными.\n\n🧑‍💻 Кампания нацелена на правительственные и военные организации, диппредставительства, поставщиков облачных услуг и даже компании, которые сами работают в сфере кибербезопасности. Для скрытности используются VPN, Tor и резидентные прокси. Весь трафик перенаправляется через подконтрольные злоумышленникам сервера, благодаря чему они полностью контролируют RDP-сессии.\n\n🗣 Как APT29 заманивают жертв? Жертве присылают фишинговое письмо с вредоносным файлом, подключение к которому делает локальные ресурсы доступными злоумышленникам. Один раз кликнул — и вот уже вся файловая система, включая сетевые диски и даже принтеры, становится добычей атакующих.\n\nP. S APT29 опять удивляют своим креативом, но это лишний раз подчеркивает важность строгих настроек RDP и регулярного мониторинга подозрительных сессий. Обнови свои протоколы безопасности — лучше предупредить, чем потом разгребать.\n\n#ИБ #APT29\n👍 Белый хакер",
+        "media_present": true,
+        "media_type": "MessageMediaPhoto",
+        "views": 6721,
+        "forwards": 39,
+        "replies": 0,
+        "hashtags": [
+            " #A",
+            "T29\n👍 "
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityBold",
+                "offset": 0,
+                "length": 1
+            },
+            {
+                "type": "MessageEntityCustomEmoji",
+                "offset": 0,
+                "length": 1
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1,
+                "length": 54
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 92,
+                "length": 11
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 125,
+                "length": 43
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 184,
+                "length": 17
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 233,
+                "length": 22
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 288,
+                "length": 27
+            },
+            {
+                "type": "MessageEntityCustomEmoji",
+                "offset": 465,
+                "length": 2
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 468,
+                "length": 27
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 529,
+                "length": 19
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 597,
+                "length": 57
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 678,
+                "length": 39
+            },
+            {
+                "type": "MessageEntityBlockquote",
+                "offset": 745,
+                "length": 370
+            },
+            {
+                "type": "MessageEntityCustomEmoji",
+                "offset": 745,
+                "length": 5
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 772,
+                "length": 39
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 887,
+                "length": 39
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 955,
+                "length": 30
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1022,
+                "length": 38
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1092,
+                "length": 22
+            },
+            {
+                "type": "MessageEntityCustomEmoji",
+                "offset": 1117,
+                "length": 2
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1147,
+                "length": 56
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1314,
+                "length": 55
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1402,
+                "length": 231
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 1635,
+                "length": 3
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 1639,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityCustomEmoji",
+                "offset": 1646,
+                "length": 2
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 1649,
+                "length": 11
+            },
+            {
+                "type": "MessageEntityBold",
+                "offset": 1649,
+                "length": 11
+            }
+        ],
+        "pinned": false,
+        "edit_date": "2024-12-23T15:17:19+00:00",
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1614759234/2182",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 82,
+        "channel_id": 2232435124,
+        "channel_name": "☠ Хакерские приложения для андроид и пк 2024",
+        "channel_username": "HacktoolI",
+        "post_author": null,
+        "date": "2024-12-22T10:31:42+00:00",
+        "message": "Инструменты Red Team стали кошмаром правительств 10 стран\n\n#RedTeam #APT29 #RDP\n\nХакерская группа APT29 (Midnight Blizzard) проводит атаки типа \"человек посередине\" (MiTM) через RDP с помощью инструмента PyRDP. Цели — кража данных, учетных записей и установка вредоносного ПО. Кампания направлена на правительственные, военные, ИТ- и телекоммуникационные организации в ряде стран, включая США, Францию, Германию и Украину.\n\nУ злоумышленников настроена масштабная инфраструктура из 193 прокси-серверов, перенаправляющих трафик на 34 контролируемых сервера. Для маскировки используются VPN, TOR и прокси.\n\nLH | Новости | Курсы | OSINT",
+        "media_present": true,
+        "media_type": "MessageMediaPhoto",
+        "views": 717,
+        "forwards": 2,
+        "replies": 0,
+        "hashtags": [
+            "#RedTeam",
+            "#APT29",
+            "#RDP"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityBold",
+                "offset": 0,
+                "length": 57
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 59,
+                "length": 8
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 68,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 75,
+                "length": 4
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 604,
+                "length": 2
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 609,
+                "length": 7
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 619,
+                "length": 5
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 627,
+                "length": 5
+            }
+        ],
+        "pinned": false,
+        "edit_date": "2024-12-22T10:31:54+00:00",
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/2232435124/82",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 1019,
+        "channel_id": 1939481202,
+        "channel_name": "Cybersécurité - Actus et tendances",
+        "channel_username": "ledecodeur",
+        "post_author": null,
+        "date": "2024-12-22T08:02:44+00:00",
+        "message": "👾️ Les tactiques sophistiquées de Cozy Bear dans le cyberespionnage\n\nCozy Bear, ou APT29, est un groupe de cyberespionnage russe actif depuis 2008, ciblant institutions stratégiques et entreprises pour collecter des renseignements et du matériel. #APT29 #CozyBear #Intel471 #menacepersistanteavancée",
+        "media_present": true,
+        "media_type": "MessageMediaPhoto",
+        "views": 165,
+        "forwards": 0,
+        "replies": 0,
+        "hashtags": [
+            "APT29 ",
+            "CozyBear ",
+            "Intel471 ",
+            "menacepersistanteavancée"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 248,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 255,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 265,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 275,
+                "length": 25
+            }
+        ],
+        "pinned": false,
+        "edit_date": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1939481202/1019",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 11525,
+        "channel_id": 1071752104,
+        "channel_name": "Life-Hack - Хакер",
+        "channel_username": "haccking",
+        "post_author": null,
+        "date": "2024-12-21T14:53:35+00:00",
+        "message": "Инструменты Red Team стали кошмаром правительств 10 стран\n\n#RedTeam #APT29 #RDP\n\nХакерская группа APT29 (Midnight Blizzard) проводит атаки типа \"человек посередине\" (MiTM) через RDP с помощью инструмента PyRDP. Цели — кража данных, учетных записей и установка вредоносного ПО. Кампания направлена на правительственные, военные, ИТ- и телекоммуникационные организации в ряде стран, включая США, Францию, Германию и Украину.\n\nУ злоумышленников настроена масштабная инфраструктура из 193 прокси-серверов, перенаправляющих трафик на 34 контролируемых сервера. Для маскировки используются VPN, TOR и прокси.\n\nLH | Новости | Курсы | OSINT",
+        "media_present": true,
+        "media_type": "MessageMediaPhoto",
+        "views": 7993,
+        "forwards": 69,
+        "replies": 0,
+        "hashtags": [
+            "#RedTeam",
+            "#APT29",
+            "#RDP"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityBold",
+                "offset": 0,
+                "length": 57
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 59,
+                "length": 8
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 68,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 75,
+                "length": 4
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 604,
+                "length": 2
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 609,
+                "length": 7
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 619,
+                "length": 5
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 627,
+                "length": 5
+            }
+        ],
+        "pinned": false,
+        "edit_date": "2024-12-21T15:04:03+00:00",
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1071752104/11525",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 26270,
+        "channel_id": 1370430912,
+        "channel_name": "Gerki.IN - Информационный портал",
+        "channel_username": "gerki_in",
+        "post_author": null,
+        "date": "2024-12-19T08:20:12+00:00",
+        "message": "Инструменты Red Team стали кошмаром правительств 10 стран\n\nКогда ваш рабочий стол — уже не ваше личное пространство.\n\nХакерская группа APT29 (Midnight Blizzard) организовала масштабную кампанию с использованием 193 прокси-серверов для атак типа «человек посередине» (MiTM) через протокол удалённого рабочего стола ( RDP ).\n\n🔗 Читать новость полную на Gerki.IN\nauthor: NewsMaker\n\n#apt29 #mitm_атака #pyrdp #rdp #red_team",
+        "media_present": true,
+        "media_type": "MessageMediaWebPage",
+        "views": 106,
+        "forwards": 0,
+        "replies": 0,
+        "hashtags": [
+            "apt29 ",
+            "mitm_атака ",
+            "pyrdp ",
+            "rdp ",
+            "red_team"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityBold",
+                "offset": 0,
+                "length": 57
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 324,
+                "length": 36
+            },
+            {
+                "type": "MessageEntityItalic",
+                "offset": 361,
+                "length": 8
+            },
+            {
+                "type": "MessageEntityTextUrl",
+                "offset": 369,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityItalic",
+                "offset": 369,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 380,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 387,
+                "length": 11
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 399,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 406,
+                "length": 4
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 411,
+                "length": 9
+            }
+        ],
+        "pinned": false,
+        "edit_date": "2024-12-19T08:20:15+00:00",
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1370430912/26270",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 579,
+        "channel_id": 1497481139,
+        "channel_name": "Aiutocomputerhelp.it Linux News & Sicurezza",
+        "channel_username": "aiutocomputerhelp",
+        "post_author": null,
+        "date": "2024-07-04T03:54:58+00:00",
+        "message": "Attacco di Midnight Blizzard: Continua la sagra Microsoft\n\nGiovanni Popolizio\n\nhttps://www.aiutocomputerhelp.it/?p=14325\n\nCategoria : #news #Sicurezza_Informatica\n\nTag : #APT29 #CISA #Cybersecurity #MFA #Midnight_Blizzard #password_spray #sicurezza_Microsoft",
+        "media_present": true,
+        "media_type": "MessageMediaWebPage",
+        "views": 875,
+        "forwards": 0,
+        "replies": 0,
+        "hashtags": [
+            "#news",
+            "#Sicurezza_Informatica",
+            "#APT29",
+            "#CISA",
+            "#Cybersecurity",
+            "#MFA",
+            "#Midnight_Blizzard",
+            "#password_spray",
+            "#sicurezza_Microsoft"
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityUrl",
+                "offset": 79,
+                "length": 41
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 134,
+                "length": 5
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 140,
+                "length": 22
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 170,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 177,
+                "length": 5
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 183,
+                "length": 14
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 198,
+                "length": 4
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 203,
+                "length": 18
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 222,
+                "length": 15
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 238,
+                "length": 20
+            }
+        ],
+        "pinned": false,
+        "edit_date": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1497481139/579",
+        "similar_channels": []
+    },
+    {
+        "hashtag": "APT29",
+        "message_id": 7532,
+        "channel_id": 1096556431,
+        "channel_name": "Tarnkappe.info",
+        "channel_username": "tarnkappe",
+        "post_author": null,
+        "date": "2024-06-28T05:37:03+00:00",
+        "message": "📬 Sicherheitsvorfall bei TeamViewer: Steckt der russische Geheimdienst dahinter?\n#ITSicherheit #APT29 #CozyBear #HealthISAC #NCCGroup #Sicherheitsvorfall #TeamViewer https://sc.tarnkappe.info/c92d49",
+        "media_present": true,
+        "media_type": "MessageMediaWebPage",
+        "views": 2585,
+        "forwards": 8,
+        "replies": 0,
+        "hashtags": [
+            "ITSicherheit ",
+            "APT29 ",
+            "CozyBear ",
+            "HealthISAC ",
+            "NCCGroup ",
+            "Sicherheitsvorfall ",
+            "TeamViewer "
+        ],
+        "entities": [
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 82,
+                "length": 13
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 96,
+                "length": 6
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 103,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 113,
+                "length": 11
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 125,
+                "length": 9
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 135,
+                "length": 19
+            },
+            {
+                "type": "MessageEntityHashtag",
+                "offset": 155,
+                "length": 11
+            },
+            {
+                "type": "MessageEntityUrl",
+                "offset": 167,
+                "length": 32
+            }
+        ],
+        "pinned": false,
+        "edit_date": "2024-06-28T05:46:51+00:00",
+        "via_bot_id": null,
+        "reply_to": null,
+        "message_link": "https://t.me/c/1096556431/7532",
+        "similar_channels": []
+    }
+]
